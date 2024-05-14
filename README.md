@@ -1,1 +1,1 @@
-# quant-macro
+# q-macro
